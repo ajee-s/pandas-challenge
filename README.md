@@ -3,17 +3,9 @@ DS Module 4 Homework
 <<<<<<< HEAD
 =======
 DS Module 4 Homework
->>>>>>> 01137ec85a09b537b3753a87421e638324a9ac8c
 
-In this assignment, you’ll create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
-Background
-You are the new Chief Data Scientist for your city's school district. 
-In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
-As a first task, you've been asked to analyze the district-wide standardized test results. 
-You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. 
-Your task is to aggregate the data to showcase obvious trends in school performance.
 
 * Read the two csv files to collect the data
 * Merge the two datasets using School Name. This will provide a complete data set with school type, budget included with the student_complete dataset.
@@ -55,8 +47,4 @@ Scores by School Type
 * Overall, schools in the spending range less than $585 per student performed better than ones spending more. In fact, with the increased spending the results seemed to go down instead of improving. 
 * This requires further analysis of budget spending is currently implemented
 
-<<<<<<< HEAD
 
-Draws two correct conclusions or comparisons from the calculations (10 points)
-=======
->>>>>>> 01137ec85a09b537b3753a87421e638324a9ac8c
