@@ -1,5 +1,9 @@
 # pandas-challenge
 DS Module 4 Homework
+<<<<<<< HEAD
+=======
+DS Module 4 Homework
+>>>>>>> 01137ec85a09b537b3753a87421e638324a9ac8c
 
 In this assignment, you’ll create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
@@ -51,5 +55,8 @@ Scores by School Type
 * Overall, schools in the spending range less than $585 per student performed better than ones spending more. In fact, with the increased spending the results seemed to go down instead of improving. 
 * This requires further analysis of budget spending is currently implemented
 
+<<<<<<< HEAD
 
 Draws two correct conclusions or comparisons from the calculations (10 points)
+=======
+>>>>>>> 01137ec85a09b537b3753a87421e638324a9ac8c
